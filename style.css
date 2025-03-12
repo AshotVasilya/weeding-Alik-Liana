@@ -180,6 +180,8 @@ main {
     font-weight: 700;
     text-align: center;
     color: #ffffff;
+    margin-left: 50px;
+    margin-top: 50px;   
 }
 .sec2 {
     position: absolute;
